@@ -6,7 +6,7 @@ public interface Measurer
    /**
       Computes the measure of an object.
       @param anObject the object to be measured
-      @return the measure
+      @return the measur
    */
    double measure(Object anObject);
 }
